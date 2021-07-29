@@ -12,7 +12,7 @@ Merge two separate web pages of the jordantg.com domain into one Gatsby blog hos
 
 ####Old topology:####  
 1. *jordantg.com* | githubpages gatsby static website  
-![](/screenshots/jordantg.png "screenshot of jordantg.com")
+![](/screenshots/azure-blog/jordantg.png "screenshot of jordantg.com")
 2. *docs.jordantg.com* | Ghost blog in AWS for posting articles, route 53 AWS for sub domain records  
 
 ####New topology####
@@ -31,20 +31,48 @@ Next step was to push the Gatsby site to Azure
 Logged into Azure Portal, created a new resource  
 
 Searched for Static Web App, then created new Static Web App
-![](/screenshots/create.png)
+![](/screenshots/azure-blog/create.png)
  -created a new resource group  
  -named the Static Web App  
  -chose plan type (free)  
  -chose source (github)  
  -selected organization, repository, and branch relating to my repo  
- -selected Gatsby as build preset![](/screenshots/webappsettings.png "Static Web App settings in Azure Portal")
+ -selected Gatsby as build preset![](/screenshots/azure-blog/webappsettings.png "Static Web App settings in Azure Portal")
 
  Once the deployment was complete, browsed to the resource to observe the GitHub action run
- ![](/screenshots/resourcedash.png "Static Web App")
+ ![](/screenshots/azure-blog/resourcedash.png "Static Web App")
 
  Action completed, website live  
+
+ ![](/screenshots/azure-blog/workflowsuccess.png)
+
+ Site reachable via Azure web address  
+
+ ![](/screenshots/azure-blog/wonderful.png)  
+
+
  
- ![](/screenshots/workflowsuccess.png)
+ Added Custom Domain from Static Web App  
+
+ ![](/screenshots/azure-blog/customdomain.png)
+
+ Set domain name *www.jordantg.com* as a CNAME record on domain provider (namecheap)  
+ ![](/screenshots/azure-blog/cdjordan.png)
+
+ Set domain name *jordantg.com* as a TXT record on domain provider (namecheap)  
+
+ ![](/screenshots/azure-blog/cdjordan1.png)
+
+ Both *www.jordantg.com* and *jordantg.com* resolve  
+
+  ![](/screenshots/azure-blog/dnsresolve.png)
+
+  #Conclusion#
+  i learned stuff
+
+
+
+
 
 
 
