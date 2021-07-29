@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Jordan Gallegos
+tagline: Los Angeles | Orange County
+featuredImage: /assets/avatar.png
 cta:
-  ctaText: Know more
+  ctaText: Learn more about me
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Working as a User Support Technician with a Bachelors in Computer Information Systems and **Cisco CCNA** and **CompTIA Security+** certifications
