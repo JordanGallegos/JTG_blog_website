@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 
-Working as a User Support Technician with a Bachelors in Computer Information Systems and **Cisco CCNA** and **CompTIA Security+** certifications
+Working as a User Support Technician with a Bachelors in Computer Information Systems. Currently holding active **Cisco CCNA** and **CompTIA Security+** certifications
