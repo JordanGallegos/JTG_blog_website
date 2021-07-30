@@ -4,7 +4,7 @@ title: Two-Tier Campus Network
 slug: /campus-network
 date: 2021-04-01 12:47
 description: Two-Tier Campus Network
-featuredImage: /assets/campuslab.png
+featuredImage: /assets/campus.png
 ---
 
 #Purpose#
