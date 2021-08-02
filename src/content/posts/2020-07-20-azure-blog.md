@@ -2,7 +2,7 @@
 template: blog-post
 title: Migrating Blog to Azure Static Web Pages
 slug: /migrating-blog-to-azure-static-web-pages
-date: 2021-07-20 12:00
+date: 2021-07-22 12:00
 description: azure blog
 featuredImage: /assets/microsoft-azure-500x500.png
 ---

@@ -26,7 +26,7 @@ To design and demonstrate an operable two-tier collapsed network. My topology wo
 - Four access switches
     - VLANs 13, 100
 
-###Configuration###
+##Configuration##
 ####Access Switches####
 ####A1, A2, A3####
 ![](/screenshots/campuslab/a1a2a3.png)
