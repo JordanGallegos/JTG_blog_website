@@ -254,7 +254,7 @@ interface Vlan100
 
 ![](/screenshots/activedirectoryonprem/dnscheck.png) 
 
-- Confirmed DHCP working (Two clients computers obtained leases)  
+- Confirmed DHCP working (Client computers obtained leases)  
 
 ![](/screenshots/activedirectoryonprem/dhcpworking.png) 
 
