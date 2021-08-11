@@ -9,7 +9,7 @@ featuredImage: /assets/exchange.png
 
 #Purpose#
 
-To successfully create two shared mailboxes. One using the Exchange Admin Center. The second using powshell in the Azure cloud shell. Along with the creation of the mailboxes, I will create a test user, assign them permissions, and send test emails. 
+To successfully create two shared mailboxes. One using the Exchange Admin Center. The second using powershell in the Azure cloud shell. Along with the creation of the mailboxes, I will create a test user, assign them permissions, and send test emails. 
 
 ###Topology###
 - Exchange Admin Center | *jordantg.com* domain  
@@ -42,7 +42,7 @@ Added send as permissions
 
 ####PowerShell####
 
-- Enabled EXOPSession in Exchange Admin Center cli  
+- Enabled EXOPSession in Exchange Admin Center CLI  
 
 ```
 Connect -EXOPSSession

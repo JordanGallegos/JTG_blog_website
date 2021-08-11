@@ -9,3 +9,15 @@ Los Angeles / Orange County-based Information Technology Professional with three
 
 ![](/images/cables.jpg)
 
+###Lab Setup###
+
+####Hardware####
+- HP ProLiant DL380 G7
+  - CPU: 12 core, 24 thread
+  - Memory: 48 GB
+  - Storage : 2 TB  
+  <br>
+- 2 x Cisco 3550 Switches  
+- 1 x Cisco 1142 AP 
+
+

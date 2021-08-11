@@ -8,7 +8,7 @@ featuredImage: /assets/activedirectory.png
 ---
 
 #Purpose#
-Implement an Active Directory environment containing four servers and two client desktops. The servers will run various roles and features including DNS, DHCP, and WSUS. This lab will provide me further efficiency relating to AD creation. And provide an introduction into the maintenance and implementation of DNS, DHCP, and WSUS on Windows Servers. 
+Implement an Active Directory environment containing four servers and two client desktops. The servers will run various roles and features including DNS, DHCP, and WSUS. This lab will provide me further efficiency relating to AD creation. And provide an introduction to the maintenance and implementation of DNS, DHCP, and WSUS on Windows Servers. 
 
 ###Topology###
 ![](/screenshots/activedirectoryonprem/topology.png)  
@@ -117,7 +117,7 @@ interface Vlan100
 
 ![](/screenshots/activedirectoryonprem/setscope.png) 
 
-- No exlusions needed as static IP addresses needed for the lab are set to IPv4 addresses out of the DHCP scope  
+- No exclusions are needed as static IP addresses needed for the lab are set to IPv4 addresses out of the DHCP scope  
 
 - Set lease time to default (8 days)  
 
@@ -130,7 +130,7 @@ interface Vlan100
 ####DC2####
 ####Add roles and features to DC2#####  
 
-- Installed Domain Serivces and DNS  
+- Installed Domain Services and DNS  
 
 ![](/screenshots/activedirectoryonprem/dc2roles.png) 
 

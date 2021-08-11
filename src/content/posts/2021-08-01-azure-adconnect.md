@@ -113,7 +113,7 @@ New-Item 'HKLM:\SOFTWARE\WOW6432Node\Microsoft\.NETFramework\v4.0.30319' -Force 
 
 ![](/screenshots/adconnect/oufiltering.png) 
 
-- Left defaults for Identifying user, Filtering, and Optional Featues  
+- Left defaults for Identifying user, Filtering, and Optional Features  
 
 - Used Administrator credentials to set SSO
 
