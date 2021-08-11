@@ -33,6 +33,6 @@ Los Angeles / Orange County-based Information Technology Professional with three
       - Eve-NG
       - OpenVPN (ubuntu server)
 - vSwitch 3 (NIC 3)
-  - VLAN 13 used for trunking to wwitches
+  - VLAN 13 used for trunking to switches
 
 
