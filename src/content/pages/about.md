@@ -20,4 +20,18 @@ Los Angeles / Orange County-based Information Technology Professional with three
 - 2 x Cisco 3550 Switches  
 - 1 x Cisco 1142 AP 
 
+####Baremetal Software | VMWare ESXI 6.7####
+- vSwitch 1
+  - WAN interface
+      - VyOS
+      - Windows Server 2019 | *jordantg.com* test domain
+      - Windows 10 | *jordantg.com* test domain
+- vSwitch 2 
+  - LAN interface
+      - VyOS
+      - Eve-NG
+      - OpenVPN (ubuntu server)
+- vSwitch 3
+  - VLAN 13 used for trunking to wwitches
+
 
