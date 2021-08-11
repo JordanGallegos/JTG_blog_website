@@ -16,22 +16,23 @@ Los Angeles / Orange County-based Information Technology Professional with three
   - CPU: 12 core, 24 thread
   - Memory: 48 GB
   - Storage : 2 TB  
+  - 4 x NICs
   <br>
 - 2 x Cisco 3550 Switches  
 - 1 x Cisco 1142 AP 
 
 ####Baremetal Software | VMWare ESXI 6.7####
-- vSwitch 1
+- vSwitch 1 (NIC 1)
   - WAN interface
       - VyOS
       - Windows Server 2019 | *jordantg.com* test domain
       - Windows 10 | *jordantg.com* test domain
-- vSwitch 2 
+- vSwitch 2 (NIC 2)
   - LAN interface
       - VyOS
       - Eve-NG
       - OpenVPN (ubuntu server)
-- vSwitch 3
+- vSwitch 3 (NIC 3)
   - VLAN 13 used for trunking to wwitches
 
 
